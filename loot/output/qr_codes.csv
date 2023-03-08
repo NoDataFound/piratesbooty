@@ -1,0 +1,1174 @@
+filename,qr_code
+loot/output/QRExfil-185.jpg,"rk Security Practices.  We
+   will remind some of aspects in the"
+loot/output/QRExfil-191.jpg,"d Proxies.  These started off being fairly simple systems
+   whi"
+loot/output/QRExfil-146.jpg,"yond the traditional enterprises and organization
+      assets ("
+loot/output/QRExfil-152.jpg," by countries and regions in the world, by the nature
+      of t"
+loot/output/QRExfil-387.jpg,"n this will leave little choices to the defenders to
+      use a"
+loot/output/QRExfil-393.jpg,"Normative References
+
+   [RFC2119]  Bradner, S., ""Key words for "
+loot/output/QRExfil-378.jpg,"erver is becoming a new middlebox which is
+      creating a numb"
+loot/output/QRExfil-422.jpg,":t
+              ext=Definition(s)%3A,and%20missions%20of%20the%"
+loot/output/QRExfil-344.jpg," domain and return a zero value if the site is
+   known bad or h"
+loot/output/QRExfil-350.jpg," nothing sensitive
+   is being sent or anything malicious is bei"
+loot/output/QRExfil-436.jpg,"ematic efforts of
+   Andrew Campling who provides the so-called "
+loot/output/QRExfil-28.jpg,"ards         Expires 12 January 2023                [Page 1]
+
+I"
+loot/output/QRExfil-14.jpg,"ate
+   these attacks.
+
+Status of This Memo
+
+   This Internet-Dra"
+loot/output/QRExfil-218.jpg,"
+
+
+
+
+
+
+
+
+
+
+
+
+Taddei & Edwards         Expires 12 January 2023   "
+loot/output/QRExfil-230.jpg," server) to be
+   blocked on the Proxy or Firewall.  But in orde"
+loot/output/QRExfil-224.jpg,"ery small, which easily allowed the traffic and its
+   content t"
+loot/output/QRExfil-225.jpg,"o be checked.  But today almost all communication is
+   encrypte"
+loot/output/QRExfil-231.jpg,"r to read deeper into
+   the traffic Deep Packet Inspection (DPI"
+loot/output/QRExfil-219.jpg,"             [Page 6]
+
+Internet-Draft                   ech4ent"
+loot/output/QRExfil-15.jpg,"ft is submitted in full conformance with the
+   provisions of BC"
+loot/output/QRExfil-29.jpg,nternet-Draft                   ech4ent                       Ju
+loot/output/QRExfil-351.jpg,"ng received.  Again, if
+   anything is detected as bad, then blo"
+loot/output/QRExfil-437.jpg,"DNS call every Monday at
+   5pm CEST.
+
+Contributors
+
+   Eric Chi"
+loot/output/QRExfil-423.jpg,"20organizat
+              ion.>.
+
+   [OPSECNSIMPACT]
+           "
+loot/output/QRExfil-345.jpg,"as only existed for a short period of time.
+
+
+
+
+Taddei & Edwards"
+loot/output/QRExfil-379.jpg,"er of problems
+
+   *  There is a need for a 3rd party security t"
+loot/output/QRExfil-392.jpg,"ld improve the security of the Internet.
+
+8.  References
+
+8.1.  "
+loot/output/QRExfil-386.jpg,"     ech4ent                       July 2022
+
+
+   *  If not, the"
+loot/output/QRExfil-153.jpg,"he object of the artefact (just in the EU: NIS, EBAG, DORA,
+    "
+loot/output/QRExfil-147.jpg,"data, etc.).
+
+
+
+Taddei & Edwards         Expires 12 January 2023"
+loot/output/QRExfil-190.jpg,"id-1990's with the first Intrusion Detection Systems
+   (IDS) an"
+loot/output/QRExfil-184.jpg,"s of the impacts of
+   pervasive encryption to Operational Netwo"
+loot/output/QRExfil-192.jpg,ch would look in the network traffic for certain string types an
+loot/output/QRExfil-186.jpg," following way:
+
+
+
+Taddei & Edwards         Expires 12 January 2"
+loot/output/QRExfil-179.jpg,"actice
+
+   *  The acceptance that breaches will occur; and that "
+loot/output/QRExfil-151.jpg,"lling and Guidelines.  This set of artefacts
+      is increasing"
+loot/output/QRExfil-145.jpg,"utation.  The term Reputation includes many
+      aspects way be"
+loot/output/QRExfil-390.jpg,"H design
+
+6.  IANA Considerations
+
+   This memo includes no requ"
+loot/output/QRExfil-384.jpg,"ions be acknowledged?
+
+
+
+Taddei & Edwards         Expires 12 Jan"
+loot/output/QRExfil-409.jpg,"T] Wikipedia, ""Magecart"", 3 April 2022,
+              <https://e"
+loot/output/QRExfil-435.jpg,"owledgements
+
+   This internet draft wants to recognize the syst"
+loot/output/QRExfil-353.jpg,"ls of defence, it should also be noted
+   that this network anal"
+loot/output/QRExfil-347.jpg,net-Draft                   ech4ent                       July 2
+loot/output/QRExfil-421.jpg,        <https://csrc.nist.gov/glossary/term/defense_in_depth#:~
+loot/output/QRExfil-17.jpg,"e Internet Engineering
+   Task Force (IETF).  Note that other gr"
+loot/output/QRExfil-227.jpg,"chieve.  From a Proxy perspective, simply looking at the SNI add"
+loot/output/QRExfil-233.jpg,"lient and the server it is
+   connecting to, to decrypt the traf"
+loot/output/QRExfil-232.jpg,
+loot/output/QRExfil-226.jpg,"d and so the job of monitoring it has also become harder to
+   a"
+loot/output/QRExfil-16.jpg,"P 78 and BCP 79.
+
+   Internet-Drafts are working documents of th"
+loot/output/QRExfil-346.jpg,"         Expires 12 January 2023                [Page 9]
+
+Inter"
+loot/output/QRExfil-420.jpg,"
+   [NIST-DID] NIST, ""Glossary - defense-in-depth"", n.d.,
+      "
+loot/output/QRExfil-434.jpg,"oadcom.com/en/
+              solarwinds-sunburst-attacks>.
+
+Ackn"
+loot/output/QRExfil-352.jpg,"ck the request/response.  This
+   therefore forms the first leve"
+loot/output/QRExfil-408.jpg,"ei-smart-cless-
+              introduction-03.txt>.
+
+   [MAGECAR"
+loot/output/QRExfil-385.jpg,"uary 2023               [Page 10]
+
+Internet-Draft              "
+loot/output/QRExfil-391.jpg,"est to IANA.
+
+7.  Security Considerations
+
+   This document shou"
+loot/output/QRExfil-144.jpg,"of any Cyber
+      Resilience strategy.
+
+   *  Protect their Rep"
+loot/output/QRExfil-150.jpg,"diverse set of Policies, Regulations,
+      Certifications, Labe"
+loot/output/QRExfil-178.jpg,"tc.), nor
+      the application, nor the logs, etc. is a good pr"
+loot/output/QRExfil-187.jpg,"023                [Page 5]
+
+Internet-Draft                   e"
+loot/output/QRExfil-193.jpg,"d
+   then alert when seen.  As such they tended to simply look a"
+loot/output/QRExfil-197.jpg,"l aware
+   and as the accuracy improved so did the confidence to"
+loot/output/QRExfil-183.jpg,"d security
+
+   In general [OPSECNSIMPACT] covered several aspect"
+loot/output/QRExfil-154.jpg,"  NIS2, etc.), by the changes of roles (e.g. the ENISA is now
+  "
+loot/output/QRExfil-140.jpg,"f funding and encouraging cybercriminals
+   to increase their at"
+loot/output/QRExfil-168.jpg,"er
+      areas such aircraft safety, an aircraft would have mult"
+loot/output/QRExfil-395.jpg,"4, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+   "
+loot/output/QRExfil-381.jpg,"estions to the the current ECH drafts:
+
+   *  Can the impacts of"
+loot/output/QRExfil-356.jpg,"ice in the model of SASE (Secure Access Service Edge)
+   allowin"
+loot/output/QRExfil-430.jpg,"g/doc/draft-mcfadden-
+              smart-threat-changes/>.
+
+   "
+loot/output/QRExfil-424.jpg,"   Cam-Winget, N., Wang, E., Danyliw, R., and R. DuToit,
+       "
+loot/output/QRExfil-342.jpg,"nd effective way to block know bad
+   sites i.e. check the domai"
+loot/output/QRExfil-418.jpg,"      MITRE, ""Browser Session Hijacking - T1185"", 25 February
+  "
+loot/output/QRExfil-12.jpg,"osal.  The current ECH drafts should consider how they want to
+ "
+loot/output/QRExfil-222.jpg,"his has been the ever increasing use of
+   encryption.  In the 1"
+loot/output/QRExfil-9.jpg,"l in these environments.  In particular it
+   highlights the nee"
+loot/output/QRExfil-236.jpg,"tems to only decrypt the traffic that the
+   organisation is int"
+loot/output/QRExfil-237.jpg,"erested in, which is called 'selective decrypt'.
+   So normal us"
+loot/output/QRExfil-223.jpg,"990's the amount of internet traffic that was
+   encrypted was v"
+loot/output/QRExfil-8.jpg,"ts and tests the current Encrypted Client
+   Hello (ECH) proposa"
+loot/output/QRExfil-13.jpg,  include enterprises operational security capabilities to mitig
+loot/output/QRExfil-419.jpg,"            2022, <https://attack.mitre.org/techniques/T1185/>.
+"
+loot/output/QRExfil-425.jpg,"       ""Impact of TLS 1.3 to Operational Network Security
+      "
+loot/output/QRExfil-343.jpg,"n name against a list of bad sites, or
+   analyse the age of the"
+loot/output/QRExfil-357.jpg,"g for greater flexibility for remote users and users working
+   "
+loot/output/QRExfil-431.jpg,"[SOLARWIND]
+              Symantec, a Division of Broadcom Softw"
+loot/output/QRExfil-380.jpg,"o add credentials to the
+      solution
+
+   This leaves a few qu"
+loot/output/QRExfil-394.jpg,"use in RFCs to Indicate
+              Requirement Levels"", BCP 1"
+loot/output/QRExfil-169.jpg,"iple
+      alternative components, systems and methods to decrea"
+loot/output/QRExfil-141.jpg,"tacks!
+
+3.3.  The main requirements
+
+   Enterprises and Organiza"
+loot/output/QRExfil-155.jpg,"    carrying a Certification Mandate), etc.
+
+3.4.  Evolution of "
+loot/output/QRExfil-182.jpg,"ro Trust is best
+      practice
+
+3.5.  The need for Network base"
+loot/output/QRExfil-196.jpg,"
+   Over time the technologies developed and became more protoco"
+loot/output/QRExfil-180.jpg,"minimising the
+      impact of such a breach (through developing"
+loot/output/QRExfil-194.jpg,"t Layer 4
+   traffic and did not understand the behaviours of ce"
+loot/output/QRExfil-143.jpg,", mainly:
+
+   *  Reduce their Risks.  And in particular as part "
+loot/output/QRExfil-157.jpg,"t decades with a few
+   milestones: several key formal work on s"
+loot/output/QRExfil-382.jpg," ECH on DNS and on the Client Facing vs Backend
+      servers be"
+loot/output/QRExfil-396.jpg,"           <https://www.rfc-editor.org/info/rfc2119>.
+
+   [RFC81"
+loot/output/QRExfil-341.jpg,"on the DNS resolution and as
+   discussed this can be a simple a"
+loot/output/QRExfil-427.jpg,"tracker.ietf.org/doc/html/draft-ietf-opsec-
+              ns-imp"
+loot/output/QRExfil-433.jpg,"Need to Know"",
+              December 2020, <https://symantec.br"
+loot/output/QRExfil-355.jpg,"undary defence, but can also be routed through an
+   online serv"
+loot/output/QRExfil-369.jpg,"ure that data is
+   not being leaked?  The only way to really pr"
+loot/output/QRExfil-11.jpg,"ck vectors which will become easier with the current ECH
+   prop"
+loot/output/QRExfil-39.jpg,"ontents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . "
+loot/output/QRExfil-235.jpg,"ation.  Again, being able to analyse the SNI
+   allows these sys"
+loot/output/QRExfil-221.jpg,"network centric security controls has
+   grown, but counter to t"
+loot/output/QRExfil-209.jpg,"om the Internet.  But this only considers the inbound
+   traffic"
+loot/output/QRExfil-208.jpg,"ng to protect their users from malicious attacks
+   coming in fr"
+loot/output/QRExfil-220.jpg,"                       July 2022
+
+
+   Increasingly the need for "
+loot/output/QRExfil-234.jpg,"fic, analyse it and then re-encrypt
+   and send on to the destin"
+loot/output/QRExfil-38.jpg,"ut warranty as described in the Revised BSD License.
+
+Table of C"
+loot/output/QRExfil-10.jpg,"d for several clarifications as well as highlights
+   known atta"
+loot/output/QRExfil-368.jpg,"(BYOD);
+   how can an organisation protect these devices and ens"
+loot/output/QRExfil-432.jpg,"are Group,
+              ""SolarWinds (Sunburst) Attack What You "
+loot/output/QRExfil-354.jpg,"ysis no longer must be down on-premise or as a
+   traditional bo"
+loot/output/QRExfil-340.jpg,"fence to stop hackers.
+
+   Normal internet traffic relies first "
+loot/output/QRExfil-426.jpg,"        Practices"", 26 January 2021,
+              <https://data"
+loot/output/QRExfil-397.jpg,"74]  Leiba, B., ""Ambiguity of Uppercase vs Lowercase in RFC
+    "
+loot/output/QRExfil-383.jpg," clarified?
+
+   *  Can the problems of enterprises and organizat"
+loot/output/QRExfil-156.jpg,"defence approaches
+
+   The defence approaches evolved in the pas"
+loot/output/QRExfil-142.jpg,"tions need to protect themselves for a vast
+   number of reasons"
+loot/output/QRExfil-195.jpg,"rtain protocols,
+   and so was highly prone to false positives.
+"
+loot/output/QRExfil-181.jpg," a strong Cyber
+      Resiliance) and through the adoption of Ze"
+loot/output/QRExfil-119.jpg,"e a
+      number of auxiliary services (e.g. security services) "
+loot/output/QRExfil-125.jpg," landscape which was already very large (see
+   [SMART]), has si"
+loot/output/QRExfil-131.jpg,"ir targets,
+   increase their efficiency and increase their rewa"
+loot/output/QRExfil-327.jpg," job opportunity, 'please read this job
+   description' is the l"
+loot/output/QRExfil-441.jpg,"ddresses
+
+
+
+
+Taddei & Edwards         Expires 12 January 2023   "
+loot/output/QRExfil-333.jpg,"  malware be detected.
+
+   Finally the browser itself can be com"
+loot/output/QRExfil-290.jpg,"companies or tax offices (and these can be
+   blocked at the net"
+loot/output/QRExfil-63.jpg," . . . . . . . . . . . . . . . . . . . . . .  11
+     8.1.  Norm"
+loot/output/QRExfil-77.jpg,"aft                   ech4ent                       July 2022
+
+
+"
+loot/output/QRExfil-284.jpg,"browser including by performing and enabling a Man in
+   the Bro"
+loot/output/QRExfil-88.jpg,"OMMENDED"", ""NOT RECOMMENDED"", ""MAY"", and
+   ""OPTIONAL"" in this d"
+loot/output/QRExfil-253.jpg,"turned on and off (and as such can be seen as a Discretionary
+  "
+loot/output/QRExfil-247.jpg,"d as can be seen from many high
+   profile attacks, such as the "
+loot/output/QRExfil-246.jpg,"lware based) does not have
+   Tamper Controls built into it.  An"
+loot/output/QRExfil-252.jpg,"e effective than having endpoint based controls which can be
+   "
+loot/output/QRExfil-89.jpg,"ocument are to be interpreted as described in
+   BCP 14 [RFC2119"
+loot/output/QRExfil-76.jpg,"   Expires 12 January 2023                [Page 2]
+
+Internet-Dr"
+loot/output/QRExfil-285.jpg,"wser [MITB] attack, codified at T1185 in MITRE ATT&CK
+   framewo"
+loot/output/QRExfil-291.jpg,"work level through analysing the SNI to understand
+   the age of"
+loot/output/QRExfil-62.jpg,". . . . . . . . . . . . . . . . . .  11
+   8.  References  . . ."
+loot/output/QRExfil-332.jpg,"ugh analysing every object being received on the host, can the
+ "
+loot/output/QRExfil-326.jpg,"ld appear to be a legitimate job
+   recruiter with news of a new"
+loot/output/QRExfil-440.jpg,"d to the analysis of the Man in the Browser attacks.
+
+Authors' A"
+loot/output/QRExfil-130.jpg,", leverage
+   innovations to their advantages, better select the"
+loot/output/QRExfil-124.jpg,"rational security
+
+3.1.  Threat landscape
+
+   The general threat"
+loot/output/QRExfil-118.jpg,   *  Are these Client Facing servers a new middlebox model wher
+loot/output/QRExfil-132.jpg,"rds, in particular
+   with Ransomware based attacks.
+
+3.2.  Impl"
+loot/output/QRExfil-126.jpg,"gnificantly increased since the COVID crisis.  Indeed
+   as the "
+loot/output/QRExfil-318.jpg,"re loaders to
+   the user so again they get compromised by simpl"
+loot/output/QRExfil-330.jpg,"s encrypted and may use specific chat channels to send
+   the ma"
+loot/output/QRExfil-442.jpg,"            [Page 12]
+
+Internet-Draft                   ech4ent"
+loot/output/QRExfil-324.jpg,"use legitimate social
+   networks, like LinkedIn, to lure target"
+loot/output/QRExfil-48.jpg,"reat landscape  . . . . . . . . . . . . . . . . . . . .   4
+    "
+loot/output/QRExfil-287.jpg,"cks, which trick the user
+   into clicking on a malicious link o"
+loot/output/QRExfil-74.jpg,"rs
+      receive their services with a good level of Confidentia"
+loot/output/QRExfil-60.jpg,". . . . . . . . .  10
+   6.  IANA Considerations . . . . . . . ."
+loot/output/QRExfil-293.jpg,", have become more stealthy by using legitimate domains (such
+  "
+loot/output/QRExfil-278.jpg,"nt security solutions is a very big gap that has not been
+   res"
+loot/output/QRExfil-244.jpg,"t this endpoint
+   software can be turned off and disabled.  Eve"
+loot/output/QRExfil-250.jpg,"alware system so that attack would succeed.  So,
+   the need for"
+loot/output/QRExfil-251.jpg," network security as a Mandatory security control is much
+   mor"
+loot/output/QRExfil-245.jpg,"n today, most endpoint
+   security software (be it DLP or antima"
+loot/output/QRExfil-279.jpg,"olved in the past decades and won't be in any short term.
+
+4.2. "
+loot/output/QRExfil-61.jpg," . . . . . . . . . . . . .  11
+   7.  Security Considerations . "
+loot/output/QRExfil-292.jpg," a domain or whether it is known bad).  To evade this
+   hackers"
+loot/output/QRExfil-286.jpg,"rk [MITB-MITRE].
+
+   In the first instance we have Phishing atta"
+loot/output/QRExfil-75.jpg,"lity,
+      Integrity and Availability
+
+
+
+Taddei & Edwards      "
+loot/output/QRExfil-49.jpg, 3.2.  Implications to Enterprises and Organizations . . . . . .
+loot/output/QRExfil-443.jpg,"                       July 2022
+
+
+   Arnaud Taddei (editor)
+   "
+loot/output/QRExfil-325.jpg,"ed users to open malicious
+   files or links.  So the hacker wou"
+loot/output/QRExfil-331.jpg,"lware through; the site itself is good and so it is only
+   thro"
+loot/output/QRExfil-319.jpg,"y viewing the
+   otherwise legitimate website.  In both cases si"
+loot/output/QRExfil-127.jpg,"crisis forced many enterprises and organizations to accelerate
+ "
+loot/output/QRExfil-133.jpg,"ications to Enterprises and Organizations
+
+   Attacks are now da"
+loot/output/QRExfil-137.jpg,"tation agencies
+
+   Since the damage is so high, some cyber insu"
+loot/output/QRExfil-123.jpg,"oyees and data ?
+
+3.  Enterprises and Organizations need for Ope"
+loot/output/QRExfil-335.jpg,"be legitimate plug-ins for the browser,
+   but in fact they coll"
+loot/output/QRExfil-321.jpg,"ient; and that the whole
+   page needs to be analysed to detect "
+loot/output/QRExfil-447.jpg,"
+
+
+   Simon Edwards (editor)
+   Broadcom
+   1320 Ridder Park Dr
+"
+loot/output/QRExfil-309.jpg,"top these attacks with simply the
+   SNI data; The SNI is necess"
+loot/output/QRExfil-71.jpg,"and Organizations are both offering online services to
+   their "
+loot/output/QRExfil-282.jpg,"s applications and services on the internet.
+   Hackers know thi"
+loot/output/QRExfil-296.jpg,"HTML or
+   Java).  In these cases, knowing the SNI is necessary "
+loot/output/QRExfil-65.jpg,.2.  Informative References  . . . . . . . . . . . . . . . . .  
+loot/output/QRExfil-59.jpg," . . . .   9
+   5.  Conclusions . . . . . . . . . . . . . . . . "
+loot/output/QRExfil-241.jpg,".
+
+   So why can all this essential analysis not be carried out "
+loot/output/QRExfil-255.jpg,ganisations are moving applications and services to the cloud an
+loot/output/QRExfil-269.jpg,"00, and likely the vast
+   majority of enterprise customers depl"
+loot/output/QRExfil-268.jpg,"ity deployment
+
+   To our knowledge, all fortune 500, fortune 20"
+loot/output/QRExfil-254.jpg," control).  The second problem arise because more and more
+   or"
+loot/output/QRExfil-240.jpg,stem can be decrypted and inspected for malware and DLP controls
+loot/output/QRExfil-58.jpg,"  8
+     4.3.  Defence in Depth  . . . . . . . . . . . . . . . ."
+loot/output/QRExfil-297.jpg,"but not
+   sufficient (because it is essentially legitimate), so"
+loot/output/QRExfil-64.jpg,"ative References  . . . . . . . . . . . . . . . . . .  11
+     8"
+loot/output/QRExfil-70.jpg,"t aims to contribute to section 5 of [CAMPLING].
+   Enterprises "
+loot/output/QRExfil-283.jpg,"s and so increasingly use attacks that aim to
+   compromise the "
+loot/output/QRExfil-308.jpg,"y viewing the advert and
+   again it is not always possible to s"
+loot/output/QRExfil-320.jpg,"mply looking at the
+   SNI server data is necessary but insuffic"
+loot/output/QRExfil-446.jpg,"broadcom.com
+   URI:   https://www.linkedin.com/in/arnaudtaddei/"
+loot/output/QRExfil-334.jpg,"promised by the user themselves,
+   by installing what looks to "
+loot/output/QRExfil-122.jpg,"mpanies and organisations today, to
+      protect their own empl"
+loot/output/QRExfil-136.jpg,"s in capitalisation between 1-5%
+
+   *  Degradation by credit no"
+loot/output/QRExfil-120.jpg,"could be
+      provided?
+
+   *  How will these changes affect th"
+loot/output/QRExfil-134.jpg,"maging Enterprises and Organizations in increasing
+   severity:
+"
+loot/output/QRExfil-108.jpg,"d servers into a Client Facing and a Backend server (whether
+   "
+loot/output/QRExfil-444.jpg,"Broadcom
+   1320 Ridder Park Dr
+   San Jose, CA 95131
+   United "
+loot/output/QRExfil-322.jpg,"the malicious code.
+
+   Users themselves can also be targeted di"
+loot/output/QRExfil-336.jpg,"ect browsing habits or may log keyboard
+   activity.
+
+4.3.  Defe"
+loot/output/QRExfil-450.jpg,"ononsecurity/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taddei & Edwards"
+loot/output/QRExfil-66.jpg,"11
+   Acknowledgements  . . . . . . . . . . . . . . . . . . . . "
+loot/output/QRExfil-295.jpg,
+loot/output/QRExfil-281.jpg,"wser has now become the primary method used
+   by users to acces"
+loot/output/QRExfil-72.jpg,"customers and support their own digital organization.  As such:
+"
+loot/output/QRExfil-256.jpg,"d
+   the web browser has become the ubiquitous method to connect"
+loot/output/QRExfil-242.jpg,"on the
+   endpoint?  In theory it can, but there are several pro"
+loot/output/QRExfil-99.jpg,"NS for
+   this purpose.  Yet this requires to add new RRs with a"
+loot/output/QRExfil-98.jpg,"t
+   can retrieve that vector and a choice was made to use the D"
+loot/output/QRExfil-243.jpg,"blems and
+   limitations with this approach.  One problem is tha"
+loot/output/QRExfil-257.jpg," to these
+   applications.  An increasing focus for security is "
+loot/output/QRExfil-280.jpg," Attacks targeting the web browser
+
+   As discussed, the web bro"
+loot/output/QRExfil-73.jpg,"
+   *  On one hand, they have the requirement that their custome"
+loot/output/QRExfil-67.jpg,". . . .  12
+   Contributors  . . . . . . . . . . . . . . . . . ."
+loot/output/QRExfil-294.jpg, as aws.amazon.com or other similar internet hosting sites) but 
+loot/output/QRExfil-337.jpg,"nce in Depth
+
+   The concept of Defence in Depth is not a new on"
+loot/output/QRExfil-451.jpg,"         Expires 12 January 2023               [Page 13]
+"
+loot/output/QRExfil-445.jpg,"States of America
+   Phone: 41795061129
+   Email: Arnaud.Taddei@"
+loot/output/QRExfil-323.jpg,"rectly through Social
+   Engineering.  A common technique is to "
+loot/output/QRExfil-109.jpg,in shared or split architecture).  However it is extremely uncle
+loot/output/QRExfil-135.jpg,"
+   *  Loss of revenue with an average between 11-24%
+
+   *  Los"
+loot/output/QRExfil-121.jpg,"e way network security and
+      monitoring is carried out by co"
+loot/output/QRExfil-138.jpg,"rances companies in some
+   countries prefer to pay the ransom t"
+loot/output/QRExfil-104.jpg," any study that shows potential impacts on
+   the overall DNS se"
+loot/output/QRExfil-110.jpg,"ar on
+   how these should be setup and how they will communicate"
+loot/output/QRExfil-448.jpg,"   San Jose, CA 95131
+   United States of America
+   Email: Simo"
+loot/output/QRExfil-306.jpg,"by creating fake
+   adverts that then get displayed on legitimat"
+loot/output/QRExfil-312.jpg," again, cannot be done in the browser alone.
+
+   [MAGECART], or "
+loot/output/QRExfil-299.jpg,"ant.  In this case the
+   web browser will not protect the user "
+loot/output/QRExfil-42.jpg,"ECH proposal  . . . . . . . . .   3
+     2.1.  DNS impact  . . ."
+loot/output/QRExfil-56.jpg,"ices are not trustable . . . . . . . . . . . . . . . .   8
+     "
+loot/output/QRExfil-272.jpg,"ments, but as well by costs as it is easier to
+   manage securit"
+loot/output/QRExfil-81.jpg," policies,
+      regulations, certification, labelling and guide"
+loot/output/QRExfil-95.jpg,"ting the backend servers
+   into client facing server and backen"
+loot/output/QRExfil-266.jpg,"ry 2023                [Page 7]
+
+Internet-Draft                "
+loot/output/QRExfil-94.jpg,"with new Record
+   Resources (RRs) and the introduction of split"
+loot/output/QRExfil-267.jpg,"   ech4ent                       July 2022
+
+
+3.6.  Network Secur"
+loot/output/QRExfil-273.jpg,"y from the network vs the endpoint (see below).
+
+4.  Client Comp"
+loot/output/QRExfil-80.jpg,"the same time
+      complying with a diverse and growing list of"
+loot/output/QRExfil-57.jpg,4.2.  Attacks targeting the web browser . . . . . . . . . . . . 
+loot/output/QRExfil-43.jpg," . . . . . . . . . . . . . . . . . . . .   3
+     2.2.  Client F"
+loot/output/QRExfil-298.jpg," proper analysis
+   on the whole page itself is much more import"
+loot/output/QRExfil-313.jpg,"Web Skimming is a common form of attack which is
+   intended to "
+loot/output/QRExfil-307.jpg,"e websites.  In many
+   cases the user can get infected by simpl"
+loot/output/QRExfil-449.jpg,"n.Edwards@broadcom.com
+   URI:   https://www.linkedin.com/in/sim"
+loot/output/QRExfil-111.jpg,".  Even if
+   this is to be left to ""implementation"", this inter"
+loot/output/QRExfil-105.jpg,"rvice from various design criteria perspective?
+
+2.2.  Client Fa"
+loot/output/QRExfil-139.jpg,"o mitigate the damage which has
+   the unfortunate side effect o"
+loot/output/QRExfil-113.jpg," explaination and step
+   by step approach in the different case"
+loot/output/QRExfil-107.jpg,"derstood that ECH needs to establish the split of the
+   targete"
+loot/output/QRExfil-339.jpg,"ply, Defence in Depth is
+   about creating multiple layers of de"
+loot/output/QRExfil-311.jpg,"t is analysed that the attack is detected and
+   stopped.  This,"
+loot/output/QRExfil-305.jpg," itself.
+   [MALVERTISING] (malicious advertising) attacks work "
+loot/output/QRExfil-69.jpg,". . . . . . . . . . . . .  12
+
+1.  Introduction
+
+   This documen"
+loot/output/QRExfil-55.jpg,"ions  . . . . . . . . . . . . . . . . . . . .   8
+     4.1.  Dev"
+loot/output/QRExfil-41.jpg," . . . . . . . . . . .   3
+   2.  Need for clarification on the "
+loot/output/QRExfil-259.jpg,"ector and so ensuring the
+   content is clean and trusted by the"
+loot/output/QRExfil-265.jpg," difficulties.
+
+
+
+
+
+
+
+
+Taddei & Edwards         Expires 12 Janua"
+loot/output/QRExfil-96.jpg,"d servers (in shared or split
+   mode).
+
+2.1.  DNS impact
+
+   Th"
+loot/output/QRExfil-82.jpg,"lines.
+
+   The current ECH proposal is calling for attention on "
+loot/output/QRExfil-271.jpg,"otivated by the nature of the attacks,
+   the compliancy require"
+loot/output/QRExfil-83.jpg,"both aspects
+   with the need for clarification on how ECH (and "
+loot/output/QRExfil-270.jpg,"oyed a network security solution
+   for decades.  This is both m"
+loot/output/QRExfil-264.jpg,"lysis.  Adding security in the network mitigates all of
+   these"
+loot/output/QRExfil-97.jpg,e current mechanism of the ECH vector needs a way that the clien
+loot/output/QRExfil-258.jpg,"on protecting the
+   web browser from being the initial attack v"
+loot/output/QRExfil-40.jpg,". . . . . . .   2
+     1.1.  Requirements Language . . . . . . ."
+loot/output/QRExfil-54.jpg,"oyment . . . . . . . . . . . . . . .   8
+   4.  Client Complicat"
+loot/output/QRExfil-68.jpg," . . . . . . . .  12
+   Authors' Addresses  . . . . . . . . . . "
+loot/output/QRExfil-304.jpg,"2
+
+
+   Other attacks work by compromising the legitimate website"
+loot/output/QRExfil-310.jpg,"ary but it is only when the specific code
+   hidden in the adver"
+loot/output/QRExfil-338.jpg,"e [NIST-DID], but it
+   is still highly relevant today.  Put sim"
+loot/output/QRExfil-106.jpg,"cing vs Backend Servers need a lot of clarification
+
+   It is un"
+loot/output/QRExfil-112.jpg,"action requires
+   clarification and at minimum a more pedagogic"
+loot/output/QRExfil-116.jpg,"   Expires 12 January 2023                [Page 3]
+
+Internet-Dr"
+loot/output/QRExfil-102.jpg,"y Service for Domains'.  What
+   would be the consequences of ma"
+loot/output/QRExfil-314.jpg,"steal PII and credit card data.  Hackers compromise
+   legitimat"
+loot/output/QRExfil-300.jpg,"as it requires proper analysis,
+   which can be done in transit "
+loot/output/QRExfil-328.jpg,"ure, the user clicks on the link or opens the
+   document and th"
+loot/output/QRExfil-50.jpg,"   4
+     3.3.  The main requirements . . . . . . . . . . . . . "
+loot/output/QRExfil-44.jpg,"acing vs Backend Servers need a lot of
+           clarification "
+loot/output/QRExfil-78.jpg,"   *  On the other hand, they need to reduce their risks, protec"
+loot/output/QRExfil-93.jpg,"g a new
+   Hybrid Cryptography, a significant change in the DNS "
+loot/output/QRExfil-260.jpg," time it arrives at the browser
+   adds significant security ben"
+loot/output/QRExfil-274.jpg,"lications
+
+4.1.  Devices are not trustable
+
+   As [CLESS] showed"
+loot/output/QRExfil-87.jpg,"REQUIRED"", ""SHALL"", ""SHALL NOT"",
+   ""SHOULD"", ""SHOULD NOT"", ""REC"
+loot/output/QRExfil-248.jpg,"recent Sunburst attack that targeted the
+   [SOLARWIND] supply c"
+loot/output/QRExfil-249.jpg,"hain, the first thing that malware did was
+   disable the anti-m"
+loot/output/QRExfil-275.jpg," before its work was stopped, is that a strategy
+   pushing secu"
+loot/output/QRExfil-86.jpg,".  Requirements Language
+
+   The key words ""MUST"", ""MUST NOT"", """
+loot/output/QRExfil-92.jpg,"
+   The current ECH proposal shows a very complex setup requirin"
+loot/output/QRExfil-261.jpg,"efit.  The third problem is that to
+   truly run the full set of"
+loot/output/QRExfil-79.jpg,"t their
+      reputation (and all associated aspects), while at "
+loot/output/QRExfil-45.jpg,". . . . . . . . . . . . . . . . . . . . . .   3
+   3.  Enterpris"
+loot/output/QRExfil-51.jpg,". . . . .   4
+     3.4.  Evolution of defence approaches . . . ."
+loot/output/QRExfil-329.jpg,"e host is compromised.  These communications are
+   almost alway"
+loot/output/QRExfil-301.jpg,"from analysing the network traffic.
+
+
+
+
+
+
+
+
+
+
+Taddei & Edwards  "
+loot/output/QRExfil-315.jpg,"e websites, typically ecommerce related, and add JavaScripts
+   "
+loot/output/QRExfil-103.jpg,"king such a radical direction change
+   into the DNS?  Was there"
+loot/output/QRExfil-117.jpg,"aft                   ech4ent                       July 2022
+
+
+"
+loot/output/QRExfil-101.jpg," is definitely moving
+   the DNS as it is today into a 'Director"
+loot/output/QRExfil-115.jpg,"rvers meant to be hosted only by CDNs?
+
+
+
+Taddei & Edwards      "
+loot/output/QRExfil-129.jpg," the
+   cyber criminals and nation states to launch more attacks"
+loot/output/QRExfil-303.jpg,t-Draft                   ech4ent                       July 202
+loot/output/QRExfil-317.jpg," data
+   to the hacker.  Other attacks will distribute the malwa"
+loot/output/QRExfil-47.jpg," . . . . . . . . . . . . . . . . . . . . . . .   4
+     3.1.  Th"
+loot/output/QRExfil-53.jpg,"urity . . . . . . . . . . .   5
+     3.6.  Network Security depl"
+loot/output/QRExfil-288.jpg,"r opening a malicious file.
+   Hackers create domains that look "
+loot/output/QRExfil-84.jpg,"DNS) will really work
+   in these production environemtns and at"
+loot/output/QRExfil-277.jpg,"o a lot of trouble as the spectrum of limits affecting
+   endpoi"
+loot/output/QRExfil-263.jpg,"endpoints due to compute and memory required for
+   the full ana"
+loot/output/QRExfil-90.jpg,"] [RFC8174] when, and only when, they appear in all
+   capitals,"
+loot/output/QRExfil-262.jpg," defence in depth analysis on the endpoint
+   will cripple many "
+loot/output/QRExfil-91.jpg," as shown here.
+
+2.  Need for clarification on the ECH proposal
+"
+loot/output/QRExfil-85.jpg," the same time how ECH will
+   affect operational security.
+
+1.1"
+loot/output/QRExfil-276.jpg,"rity to only the two endpoints of a communication is
+   doomed t"
+loot/output/QRExfil-289.jpg,"like legitimate websites which often
+   are related to delivery "
+loot/output/QRExfil-52.jpg," . . . . . . . . .   5
+     3.5.  The need for Network based sec"
+loot/output/QRExfil-46.jpg,"es and Organizations need for Operational
+           security  ."
+loot/output/QRExfil-316.jpg,which skim the credit card data used by a customer and send that
+loot/output/QRExfil-302.jpg,"       Expires 12 January 2023                [Page 8]
+
+Interne"
+loot/output/QRExfil-128.jpg,"  their digital transformation, it increased the opportunity for"
+loot/output/QRExfil-114.jpg,"s.  Some additional questions:
+
+   *  Are these Client Facing se"
+loot/output/QRExfil-100.jpg," substantial
+   amount of new data.  It seems like this proposal"
+loot/output/QRExfil-198.jpg," actually block
+   attacks before they reached the targeted endp"
+loot/output/QRExfil-167.jpg, *  Security cannot rely on just one solution.  Just like in oth
+loot/output/QRExfil-173.jpg,"nother layer can provide
+      coverage
+
+   *  Compartmenting pe"
+loot/output/QRExfil-359.jpg,
+loot/output/QRExfil-403.jpg,"//datatracker.ietf.org/doc/draft-campling-ech-
+              dep"
+loot/output/QRExfil-365.jpg,"of as that last line of defence, and not the only line of
+   def"
+loot/output/QRExfil-371.jpg,"r malware and DLP etc.
+
+5.  Conclusions
+
+   This document remind"
+loot/output/QRExfil-417.jpg,"in-the-
+              browser_attack>.
+
+   [MITB-MITRE]
+        "
+loot/output/QRExfil-21.jpg,"uments valid for a maximum of six months
+   and may be updated, "
+loot/output/QRExfil-35.jpg," to this document.  Code Components
+   extracted from this docum"
+loot/output/QRExfil-6.jpg,"ech4ent-introduction-00
+
+Abstract
+
+   This paper reviews some of"
+loot/output/QRExfil-239.jpg," can be ignored while traffic destined for an online email
+   sy"
+loot/output/QRExfil-211.jpg,This is where Data Loss Prevention (DLP) controls come in; allow
+loot/output/QRExfil-205.jpg,"ducts, such as sandboxes, to extract the payload
+   and analyse "
+loot/output/QRExfil-204.jpg,"hey have evolved to allow integration with
+   other security pro"
+loot/output/QRExfil-210.jpg,", what about what users are sending out of an organisation ?
+   "
+loot/output/QRExfil-238.jpg,"er activity such as connecting to a news site or social
+   media"
+loot/output/QRExfil-7.jpg," the Enterprises and Organizations
+   requirements and constrain"
+loot/output/QRExfil-34.jpg,"y, as they describe your rights
+   and restrictions with respect"
+loot/output/QRExfil-20.jpg,"cker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft doc"
+loot/output/QRExfil-370.jpg,"otect these devices
+   relies again on network based analysis fo"
+loot/output/QRExfil-416.jpg,".d.,
+              <https://owasp.org/www-community/attacks/Man-"
+loot/output/QRExfil-402.jpg," Deployment Considerations"", 7 March 2022,
+              <https:"
+loot/output/QRExfil-364.jpg,"anaged by the organisation; but these should only be
+   thought "
+loot/output/QRExfil-358.jpg,"from home.
+
+   On the endpoint, deploy anti-malware and DLP agen"
+loot/output/QRExfil-172.jpg," provide defence in
+      depth safety so if one layer fails a a"
+loot/output/QRExfil-166.jpg,"ns on any size and any
+   vertical, incrementaly recognized:
+
+  "
+loot/output/QRExfil-199.jpg,"oint; IDS became
+   Intrusion Prevention.  At a higher protocol "
+loot/output/QRExfil-158.jpg,"ecurity were developed in the
+   70s and the 80s and ended up in"
+loot/output/QRExfil-170.jpg,"se the
+      probability of hiting a unique point of failure.  S"
+loot/output/QRExfil-164.jpg,"dge (SASE).
+
+   On the way, the community and the operational se"
+loot/output/QRExfil-399.jpg,"4,
+              May 2017, <https://www.rfc-editor.org/info/rfc8"
+loot/output/QRExfil-428.jpg,"act-04>.
+
+   [SMART]    McFadden, M., ""BCP72 - A Problem Stateme"
+loot/output/QRExfil-414.jpg,"
+Internet-Draft                   ech4ent                      "
+loot/output/QRExfil-372.jpg,"s on the Enterprises and Organizations
+   environments, constrai"
+loot/output/QRExfil-366.jpg,ence!  It is also worth considering the increase in devices that
+loot/output/QRExfil-400.jpg,"174>.
+
+8.2.  Informative References
+
+   [CAMPLING] Campling, A.,"
+loot/output/QRExfil-36.jpg,"ent must include Revised BSD License text as
+   described in Sec"
+loot/output/QRExfil-22.jpg,"replaced, or obsoleted by other documents at any
+   time.  It is"
+loot/output/QRExfil-5.jpg,"or Enterprises and Organizations
+                  draft-taddei-"
+loot/output/QRExfil-206.jpg,
+loot/output/QRExfil-212.jpg,"ing
+   organisations to look for company confidential data, Pers"
+loot/output/QRExfil-213.jpg,"onal
+   Identifiable Information (PII), and financial data (such"
+loot/output/QRExfil-207.jpg,"undary controls' have been essential to
+   organisations in tryi"
+loot/output/QRExfil-4.jpg,"                           11 July 2022
+
+
+                 ECH f"
+loot/output/QRExfil-23.jpg," inappropriate to use Internet-Drafts as reference
+   material o"
+loot/output/QRExfil-37.jpg,"tion 4.e of the Trust Legal Provisions and are
+   provided witho"
+loot/output/QRExfil-367.jpg,"
+   are not managed by the organisation - Bring Your own Device "
+loot/output/QRExfil-401.jpg," Vixie, P., and D. Wright, ""Encrypted Client
+              Hello"
+loot/output/QRExfil-415.jpg," July 2022
+
+
+   [MITB]     OWASP, ""Man-in-the-browser attack"", n"
+loot/output/QRExfil-373.jpg,"nts and requirements.  It shows too that the
+   current ECH draf"
+loot/output/QRExfil-429.jpg,"nt"", 21 January
+              2022, <https://datatracker.ietf.or"
+loot/output/QRExfil-398.jpg,"          2119 Key Words"", BCP 14, RFC 8174, DOI 10.17487/RFC817"
+loot/output/QRExfil-165.jpg,"curity practioners
+   across all the enterprises and organizatio"
+loot/output/QRExfil-171.jpg,"everal measures
+      are used in conjunction with each other to"
+loot/output/QRExfil-159.jpg," X.800 being apparently the last
+   formal, international consen"
+loot/output/QRExfil-175.jpg," is), like in a submarine, is a good approach to
+      resilienc"
+loot/output/QRExfil-161.jpg,"curity from a pure on premise perimeter defence
+   model, to a t"
+loot/output/QRExfil-149.jpg,"ent                       July 2022
+
+
+   *  Comply to a growing "
+loot/output/QRExfil-388.jpg," protocol based clean solution
+
+   *  If yes, then what could be"
+loot/output/QRExfil-377.jpg,"not act properly to protect end users
+
+   *  The client facing s"
+loot/output/QRExfil-411.jpg,"              Wikipedia, ""Malvertising"", 2 June 2022,
+          "
+loot/output/QRExfil-405.jpg," Roundy, K., and D. Lazanski,
+              ""Capabilities and Li"
+loot/output/QRExfil-363.jpg,"lways be a need to deploy agents on the endpoint
+   of devices m"
+loot/output/QRExfil-439.jpg,"://www.linkedin.com/in/eric-chien-66b4b258/
+
+
+   Eric contribute"
+loot/output/QRExfil-33.jpg,"tion of this document.
+   Please review these documents carefull"
+loot/output/QRExfil-27.jpg,"  document authors.  All rights reserved.
+
+
+
+
+
+
+
+
+
+
+Taddei & Edw"
+loot/output/QRExfil-203.jpg,"st of known good or bad sites and then
+   block or allow.  But t"
+loot/output/QRExfil-217.jpg,"int of view due to
+   legislation such as GDPR and PCI.
+
+
+
+
+
+
+
+
+"
+loot/output/QRExfil-0.jpg,"
+
+
+
+Internet Engineering Task Force                           A."
+loot/output/QRExfil-1.jpg," Taddei, Ed.
+Internet-Draft                                     "
+loot/output/QRExfil-216.jpg,"n, but they are also
+   essential from a legal and compliance po"
+loot/output/QRExfil-202.jpg,"er Name Identification (SNI) and
+   then check that against a li"
+loot/output/QRExfil-26.jpg,"opyright (c) 2022 IETF Trust and the persons identified as the
+ "
+loot/output/QRExfil-32.jpg,"stee.ietf.org/
+   license-info) in effect on the date of publica"
+loot/output/QRExfil-438.jpg,"en
+   Broadcom
+   Email: Eric.Chien@broadcom.com
+   URI:   https"
+loot/output/QRExfil-404.jpg,"loyment-considerations/>.
+
+   [CLESS]    Taddei, A., Wueest, C.,"
+loot/output/QRExfil-362.jpg," line of defence.  And this really is the
+   point, there will a"
+loot/output/QRExfil-376.jpg,"r cannot be judge and jury as if it is compromised, it
+      can"
+loot/output/QRExfil-410.jpg,"n.wikipedia.org/wiki/Web_skimming#Magecart>.
+
+   [MALVERTISING]
+"
+loot/output/QRExfil-389.jpg," the suggestions to include operational
+      security in the EC"
+loot/output/QRExfil-148.jpg,"                [Page 4]
+
+Internet-Draft                   ech4"
+loot/output/QRExfil-160.jpg,"sus based security architecture.  Then
+   several works moved se"
+loot/output/QRExfil-174.jpg,"rimeters (regardless on how big or small their
+      granularity"
+loot/output/QRExfil-189.jpg,"rk based attack detection is a long one, dating
+   back to the m"
+loot/output/QRExfil-162.jpg,"iered/layered defence, to defence in depth, to Jericho
+   Forum,"
+loot/output/QRExfil-176.jpg,"y
+
+   *  Not trusting anyone, anything, neither the device, nor "
+loot/output/QRExfil-360.jpg,"emembering to make sure there
+   are controls in place to stop t"
+loot/output/QRExfil-406.jpg,"mitations of Endpoint Security
+              Solutions"", 13 July"
+loot/output/QRExfil-412.jpg,"    <https://en.wikipedia.org/wiki/Malvertising>.
+
+
+
+
+
+Taddei & "
+loot/output/QRExfil-374.jpg,"ts will implicitly:
+
+   *  Leave the security responsibility to "
+loot/output/QRExfil-348.jpg,"022
+
+
+   Next as the HTTPS connection is made, checking the SNI,"
+loot/output/QRExfil-24.jpg,"r to cite them other than as ""work in progress.""
+
+   This Intern"
+loot/output/QRExfil-30.jpg,"ly 2022
+
+
+   This document is subject to BCP 78 and the IETF Tru"
+loot/output/QRExfil-18.jpg,"oups may also distribute
+   working documents as Internet-Drafts"
+loot/output/QRExfil-214.jpg," as credit
+   card data) and stop it egressing the organisation."
+loot/output/QRExfil-200.jpg,"level Proxies have
+   fundamentally not changed much at all, in "
+loot/output/QRExfil-228.jpg,
+loot/output/QRExfil-3.jpg,"                      Broadcom
+Expires: 12 January 2023         "
+loot/output/QRExfil-229.jpg,"affic (such
+   as malware talking to a Command and Control (C&C)"
+loot/output/QRExfil-2.jpg,"      S. Edwards, Ed.
+Intended status: Informational            "
+loot/output/QRExfil-201.jpg,"essence they look at the
+   HTTP connection and extract the Serv"
+loot/output/QRExfil-215.jpg,"  Not only are
+   these controls used to protect the organisatio"
+loot/output/QRExfil-19.jpg,".  The list of current Internet-
+   Drafts is at https://datatra"
+loot/output/QRExfil-31.jpg,"st's Legal
+   Provisions Relating to IETF Documents (https://tru"
+loot/output/QRExfil-25.jpg,"et-Draft will expire on 12 January 2023.
+
+Copyright Notice
+
+   C"
+loot/output/QRExfil-349.jpg," decrypting
+   the traffic, and analying its content will ensure"
+loot/output/QRExfil-413.jpg,"Edwards         Expires 12 January 2023               [Page 11]
+"
+loot/output/QRExfil-375.jpg,"the browser and the client
+      facing server
+
+   *  The browse"
+loot/output/QRExfil-361.jpg,"he software from being deactivated!)
+   and this forms the final"
+loot/output/QRExfil-407.jpg,
+loot/output/QRExfil-177.jpg,"the
+      network, nor the service endpoints (servers, clouds, e"
+loot/output/QRExfil-163.jpg," to Beyond corp, to Zero Trust and to Secure Access Service
+   E"
+loot/output/QRExfil-188.jpg,"ch4ent                       July 2022
+
+
+   The history of netwo"

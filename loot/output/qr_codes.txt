@@ -1,0 +1,1173 @@
+rk Security Practices.  We
+   will remind some of aspects in the
+d Proxies.  These started off being fairly simple systems
+   whi
+yond the traditional enterprises and organization
+      assets (
+ by countries and regions in the world, by the nature
+      of t
+n this will leave little choices to the defenders to
+      use a
+Normative References
+
+   [RFC2119]  Bradner, S., "Key words for 
+erver is becoming a new middlebox which is
+      creating a numb
+:t
+              ext=Definition(s)%3A,and%20missions%20of%20the%
+ domain and return a zero value if the site is
+   known bad or h
+ nothing sensitive
+   is being sent or anything malicious is bei
+ematic efforts of
+   Andrew Campling who provides the so-called 
+ards         Expires 12 January 2023                [Page 1]
+
+I
+ate
+   these attacks.
+
+Status of This Memo
+
+   This Internet-Dra
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taddei & Edwards         Expires 12 January 2023   
+ server) to be
+   blocked on the Proxy or Firewall.  But in orde
+ery small, which easily allowed the traffic and its
+   content t
+o be checked.  But today almost all communication is
+   encrypte
+r to read deeper into
+   the traffic Deep Packet Inspection (DPI
+             [Page 6]
+
+Internet-Draft                   ech4ent
+ft is submitted in full conformance with the
+   provisions of BC
+nternet-Draft                   ech4ent                       Ju
+ng received.  Again, if
+   anything is detected as bad, then blo
+DNS call every Monday at
+   5pm CEST.
+
+Contributors
+
+   Eric Chi
+20organizat
+              ion.>.
+
+   [OPSECNSIMPACT]
+           
+as only existed for a short period of time.
+
+
+
+
+Taddei & Edwards
+er of problems
+
+   *  There is a need for a 3rd party security t
+ld improve the security of the Internet.
+
+8.  References
+
+8.1.  
+     ech4ent                       July 2022
+
+
+   *  If not, the
+he object of the artefact (just in the EU: NIS, EBAG, DORA,
+    
+data, etc.).
+
+
+
+Taddei & Edwards         Expires 12 January 2023
+id-1990's with the first Intrusion Detection Systems
+   (IDS) an
+s of the impacts of
+   pervasive encryption to Operational Netwo
+ch would look in the network traffic for certain string types an
+ following way:
+
+
+
+Taddei & Edwards         Expires 12 January 2
+actice
+
+   *  The acceptance that breaches will occur; and that 
+lling and Guidelines.  This set of artefacts
+      is increasing
+utation.  The term Reputation includes many
+      aspects way be
+H design
+
+6.  IANA Considerations
+
+   This memo includes no requ
+ions be acknowledged?
+
+
+
+Taddei & Edwards         Expires 12 Jan
+T] Wikipedia, "Magecart", 3 April 2022,
+              <https://e
+owledgements
+
+   This internet draft wants to recognize the syst
+ls of defence, it should also be noted
+   that this network anal
+net-Draft                   ech4ent                       July 2
+        <https://csrc.nist.gov/glossary/term/defense_in_depth#:~
+e Internet Engineering
+   Task Force (IETF).  Note that other gr
+chieve.  From a Proxy perspective, simply looking at the SNI add
+lient and the server it is
+   connecting to, to decrypt the traf
+
+d and so the job of monitoring it has also become harder to
+   a
+P 78 and BCP 79.
+
+   Internet-Drafts are working documents of th
+         Expires 12 January 2023                [Page 9]
+
+Inter
+
+   [NIST-DID] NIST, "Glossary - defense-in-depth", n.d.,
+      
+oadcom.com/en/
+              solarwinds-sunburst-attacks>.
+
+Ackn
+ck the request/response.  This
+   therefore forms the first leve
+ei-smart-cless-
+              introduction-03.txt>.
+
+   [MAGECAR
+uary 2023               [Page 10]
+
+Internet-Draft              
+est to IANA.
+
+7.  Security Considerations
+
+   This document shou
+of any Cyber
+      Resilience strategy.
+
+   *  Protect their Rep
+diverse set of Policies, Regulations,
+      Certifications, Labe
+tc.), nor
+      the application, nor the logs, etc. is a good pr
+023                [Page 5]
+
+Internet-Draft                   e
+d
+   then alert when seen.  As such they tended to simply look a
+l aware
+   and as the accuracy improved so did the confidence to
+d security
+
+   In general [OPSECNSIMPACT] covered several aspect
+  NIS2, etc.), by the changes of roles (e.g. the ENISA is now
+  
+f funding and encouraging cybercriminals
+   to increase their at
+er
+      areas such aircraft safety, an aircraft would have mult
+4, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+   
+estions to the the current ECH drafts:
+
+   *  Can the impacts of
+ice in the model of SASE (Secure Access Service Edge)
+   allowin
+g/doc/draft-mcfadden-
+              smart-threat-changes/>.
+
+   
+   Cam-Winget, N., Wang, E., Danyliw, R., and R. DuToit,
+       
+nd effective way to block know bad
+   sites i.e. check the domai
+      MITRE, "Browser Session Hijacking - T1185", 25 February
+  
+osal.  The current ECH drafts should consider how they want to
+ 
+his has been the ever increasing use of
+   encryption.  In the 1
+l in these environments.  In particular it
+   highlights the nee
+tems to only decrypt the traffic that the
+   organisation is int
+erested in, which is called 'selective decrypt'.
+   So normal us
+990's the amount of internet traffic that was
+   encrypted was v
+ts and tests the current Encrypted Client
+   Hello (ECH) proposa
+  include enterprises operational security capabilities to mitig
+            2022, <https://attack.mitre.org/techniques/T1185/>.
+
+       "Impact of TLS 1.3 to Operational Network Security
+      
+n name against a list of bad sites, or
+   analyse the age of the
+g for greater flexibility for remote users and users working
+   
+[SOLARWIND]
+              Symantec, a Division of Broadcom Softw
+o add credentials to the
+      solution
+
+   This leaves a few qu
+use in RFCs to Indicate
+              Requirement Levels", BCP 1
+iple
+      alternative components, systems and methods to decrea
+tacks!
+
+3.3.  The main requirements
+
+   Enterprises and Organiza
+    carrying a Certification Mandate), etc.
+
+3.4.  Evolution of 
+ro Trust is best
+      practice
+
+3.5.  The need for Network base
+
+   Over time the technologies developed and became more protoco
+minimising the
+      impact of such a breach (through developing
+t Layer 4
+   traffic and did not understand the behaviours of ce
+, mainly:
+
+   *  Reduce their Risks.  And in particular as part 
+t decades with a few
+   milestones: several key formal work on s
+ ECH on DNS and on the Client Facing vs Backend
+      servers be
+           <https://www.rfc-editor.org/info/rfc2119>.
+
+   [RFC81
+on the DNS resolution and as
+   discussed this can be a simple a
+tracker.ietf.org/doc/html/draft-ietf-opsec-
+              ns-imp
+Need to Know",
+              December 2020, <https://symantec.br
+undary defence, but can also be routed through an
+   online serv
+ure that data is
+   not being leaked?  The only way to really pr
+ck vectors which will become easier with the current ECH
+   prop
+ontents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . 
+ation.  Again, being able to analyse the SNI
+   allows these sys
+network centric security controls has
+   grown, but counter to t
+om the Internet.  But this only considers the inbound
+   traffic
+ng to protect their users from malicious attacks
+   coming in fr
+                       July 2022
+
+
+   Increasingly the need for 
+fic, analyse it and then re-encrypt
+   and send on to the destin
+ut warranty as described in the Revised BSD License.
+
+Table of C
+d for several clarifications as well as highlights
+   known atta
+(BYOD);
+   how can an organisation protect these devices and ens
+are Group,
+              "SolarWinds (Sunburst) Attack What You 
+ysis no longer must be down on-premise or as a
+   traditional bo
+fence to stop hackers.
+
+   Normal internet traffic relies first 
+        Practices", 26 January 2021,
+              <https://data
+74]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+    
+ clarified?
+
+   *  Can the problems of enterprises and organizat
+defence approaches
+
+   The defence approaches evolved in the pas
+tions need to protect themselves for a vast
+   number of reasons
+rtain protocols,
+   and so was highly prone to false positives.
+
+ a strong Cyber
+      Resiliance) and through the adoption of Ze
+e a
+      number of auxiliary services (e.g. security services) 
+ landscape which was already very large (see
+   [SMART]), has si
+ir targets,
+   increase their efficiency and increase their rewa
+ job opportunity, 'please read this job
+   description' is the l
+ddresses
+
+
+
+
+Taddei & Edwards         Expires 12 January 2023   
+  malware be detected.
+
+   Finally the browser itself can be com
+companies or tax offices (and these can be
+   blocked at the net
+ . . . . . . . . . . . . . . . . . . . . . .  11
+     8.1.  Norm
+aft                   ech4ent                       July 2022
+
+
+
+browser including by performing and enabling a Man in
+   the Bro
+OMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this d
+turned on and off (and as such can be seen as a Discretionary
+  
+d as can be seen from many high
+   profile attacks, such as the 
+lware based) does not have
+   Tamper Controls built into it.  An
+e effective than having endpoint based controls which can be
+   
+ocument are to be interpreted as described in
+   BCP 14 [RFC2119
+   Expires 12 January 2023                [Page 2]
+
+Internet-Dr
+wser [MITB] attack, codified at T1185 in MITRE ATT&CK
+   framewo
+work level through analysing the SNI to understand
+   the age of
+. . . . . . . . . . . . . . . . . .  11
+   8.  References  . . .
+ugh analysing every object being received on the host, can the
+ 
+ld appear to be a legitimate job
+   recruiter with news of a new
+d to the analysis of the Man in the Browser attacks.
+
+Authors' A
+, leverage
+   innovations to their advantages, better select the
+rational security
+
+3.1.  Threat landscape
+
+   The general threat
+   *  Are these Client Facing servers a new middlebox model wher
+rds, in particular
+   with Ransomware based attacks.
+
+3.2.  Impl
+gnificantly increased since the COVID crisis.  Indeed
+   as the 
+re loaders to
+   the user so again they get compromised by simpl
+s encrypted and may use specific chat channels to send
+   the ma
+            [Page 12]
+
+Internet-Draft                   ech4ent
+use legitimate social
+   networks, like LinkedIn, to lure target
+reat landscape  . . . . . . . . . . . . . . . . . . . .   4
+    
+cks, which trick the user
+   into clicking on a malicious link o
+rs
+      receive their services with a good level of Confidentia
+. . . . . . . . .  10
+   6.  IANA Considerations . . . . . . . .
+, have become more stealthy by using legitimate domains (such
+  
+nt security solutions is a very big gap that has not been
+   res
+t this endpoint
+   software can be turned off and disabled.  Eve
+alware system so that attack would succeed.  So,
+   the need for
+ network security as a Mandatory security control is much
+   mor
+n today, most endpoint
+   security software (be it DLP or antima
+olved in the past decades and won't be in any short term.
+
+4.2. 
+ . . . . . . . . . . . . .  11
+   7.  Security Considerations . 
+ a domain or whether it is known bad).  To evade this
+   hackers
+rk [MITB-MITRE].
+
+   In the first instance we have Phishing atta
+lity,
+      Integrity and Availability
+
+
+
+Taddei & Edwards      
+ 3.2.  Implications to Enterprises and Organizations . . . . . .
+                       July 2022
+
+
+   Arnaud Taddei (editor)
+   
+ed users to open malicious
+   files or links.  So the hacker wou
+lware through; the site itself is good and so it is only
+   thro
+y viewing the
+   otherwise legitimate website.  In both cases si
+crisis forced many enterprises and organizations to accelerate
+ 
+ications to Enterprises and Organizations
+
+   Attacks are now da
+tation agencies
+
+   Since the damage is so high, some cyber insu
+oyees and data ?
+
+3.  Enterprises and Organizations need for Ope
+be legitimate plug-ins for the browser,
+   but in fact they coll
+ient; and that the whole
+   page needs to be analysed to detect 
+
+
+
+   Simon Edwards (editor)
+   Broadcom
+   1320 Ridder Park Dr
+
+top these attacks with simply the
+   SNI data; The SNI is necess
+and Organizations are both offering online services to
+   their 
+s applications and services on the internet.
+   Hackers know thi
+HTML or
+   Java).  In these cases, knowing the SNI is necessary 
+.2.  Informative References  . . . . . . . . . . . . . . . . .  
+ . . . .   9
+   5.  Conclusions . . . . . . . . . . . . . . . . 
+.
+
+   So why can all this essential analysis not be carried out 
+ganisations are moving applications and services to the cloud an
+00, and likely the vast
+   majority of enterprise customers depl
+ity deployment
+
+   To our knowledge, all fortune 500, fortune 20
+ control).  The second problem arise because more and more
+   or
+stem can be decrypted and inspected for malware and DLP controls
+  8
+     4.3.  Defence in Depth  . . . . . . . . . . . . . . . .
+but not
+   sufficient (because it is essentially legitimate), so
+ative References  . . . . . . . . . . . . . . . . . .  11
+     8
+t aims to contribute to section 5 of [CAMPLING].
+   Enterprises 
+s and so increasingly use attacks that aim to
+   compromise the 
+y viewing the advert and
+   again it is not always possible to s
+mply looking at the
+   SNI server data is necessary but insuffic
+broadcom.com
+   URI:   https://www.linkedin.com/in/arnaudtaddei/
+promised by the user themselves,
+   by installing what looks to 
+mpanies and organisations today, to
+      protect their own empl
+s in capitalisation between 1-5%
+
+   *  Degradation by credit no
+could be
+      provided?
+
+   *  How will these changes affect th
+maging Enterprises and Organizations in increasing
+   severity:
+
+d servers into a Client Facing and a Backend server (whether
+   
+Broadcom
+   1320 Ridder Park Dr
+   San Jose, CA 95131
+   United 
+the malicious code.
+
+   Users themselves can also be targeted di
+ect browsing habits or may log keyboard
+   activity.
+
+4.3.  Defe
+ononsecurity/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taddei & Edwards
+11
+   Acknowledgements  . . . . . . . . . . . . . . . . . . . . 
+
+wser has now become the primary method used
+   by users to acces
+customers and support their own digital organization.  As such:
+
+d
+   the web browser has become the ubiquitous method to connect
+on the
+   endpoint?  In theory it can, but there are several pro
+NS for
+   this purpose.  Yet this requires to add new RRs with a
+t
+   can retrieve that vector and a choice was made to use the D
+blems and
+   limitations with this approach.  One problem is tha
+ to these
+   applications.  An increasing focus for security is 
+ Attacks targeting the web browser
+
+   As discussed, the web bro
+
+   *  On one hand, they have the requirement that their custome
+. . . .  12
+   Contributors  . . . . . . . . . . . . . . . . . .
+ as aws.amazon.com or other similar internet hosting sites) but 
+nce in Depth
+
+   The concept of Defence in Depth is not a new on
+         Expires 12 January 2023               [Page 13]
+
+States of America
+   Phone: 41795061129
+   Email: Arnaud.Taddei@
+rectly through Social
+   Engineering.  A common technique is to 
+in shared or split architecture).  However it is extremely uncle
+
+   *  Loss of revenue with an average between 11-24%
+
+   *  Los
+e way network security and
+      monitoring is carried out by co
+rances companies in some
+   countries prefer to pay the ransom t
+ any study that shows potential impacts on
+   the overall DNS se
+ar on
+   how these should be setup and how they will communicate
+   San Jose, CA 95131
+   United States of America
+   Email: Simo
+by creating fake
+   adverts that then get displayed on legitimat
+ again, cannot be done in the browser alone.
+
+   [MAGECART], or 
+ant.  In this case the
+   web browser will not protect the user 
+ECH proposal  . . . . . . . . .   3
+     2.1.  DNS impact  . . .
+ices are not trustable . . . . . . . . . . . . . . . .   8
+     
+ments, but as well by costs as it is easier to
+   manage securit
+ policies,
+      regulations, certification, labelling and guide
+ting the backend servers
+   into client facing server and backen
+ry 2023                [Page 7]
+
+Internet-Draft                
+with new Record
+   Resources (RRs) and the introduction of split
+   ech4ent                       July 2022
+
+
+3.6.  Network Secur
+y from the network vs the endpoint (see below).
+
+4.  Client Comp
+the same time
+      complying with a diverse and growing list of
+4.2.  Attacks targeting the web browser . . . . . . . . . . . . 
+ . . . . . . . . . . . . . . . . . . . .   3
+     2.2.  Client F
+ proper analysis
+   on the whole page itself is much more import
+Web Skimming is a common form of attack which is
+   intended to 
+e websites.  In many
+   cases the user can get infected by simpl
+n.Edwards@broadcom.com
+   URI:   https://www.linkedin.com/in/sim
+.  Even if
+   this is to be left to "implementation", this inter
+rvice from various design criteria perspective?
+
+2.2.  Client Fa
+o mitigate the damage which has
+   the unfortunate side effect o
+ explaination and step
+   by step approach in the different case
+derstood that ECH needs to establish the split of the
+   targete
+ply, Defence in Depth is
+   about creating multiple layers of de
+t is analysed that the attack is detected and
+   stopped.  This,
+ itself.
+   [MALVERTISING] (malicious advertising) attacks work 
+. . . . . . . . . . . . .  12
+
+1.  Introduction
+
+   This documen
+ions  . . . . . . . . . . . . . . . . . . . .   8
+     4.1.  Dev
+ . . . . . . . . . . .   3
+   2.  Need for clarification on the 
+ector and so ensuring the
+   content is clean and trusted by the
+ difficulties.
+
+
+
+
+
+
+
+
+Taddei & Edwards         Expires 12 Janua
+d servers (in shared or split
+   mode).
+
+2.1.  DNS impact
+
+   Th
+lines.
+
+   The current ECH proposal is calling for attention on 
+otivated by the nature of the attacks,
+   the compliancy require
+both aspects
+   with the need for clarification on how ECH (and 
+oyed a network security solution
+   for decades.  This is both m
+lysis.  Adding security in the network mitigates all of
+   these
+e current mechanism of the ECH vector needs a way that the clien
+on protecting the
+   web browser from being the initial attack v
+. . . . . . .   2
+     1.1.  Requirements Language . . . . . . .
+oyment . . . . . . . . . . . . . . .   8
+   4.  Client Complicat
+ . . . . . . . .  12
+   Authors' Addresses  . . . . . . . . . . 
+2
+
+
+   Other attacks work by compromising the legitimate website
+ary but it is only when the specific code
+   hidden in the adver
+e [NIST-DID], but it
+   is still highly relevant today.  Put sim
+cing vs Backend Servers need a lot of clarification
+
+   It is un
+action requires
+   clarification and at minimum a more pedagogic
+   Expires 12 January 2023                [Page 3]
+
+Internet-Dr
+y Service for Domains'.  What
+   would be the consequences of ma
+steal PII and credit card data.  Hackers compromise
+   legitimat
+as it requires proper analysis,
+   which can be done in transit 
+ure, the user clicks on the link or opens the
+   document and th
+   4
+     3.3.  The main requirements . . . . . . . . . . . . . 
+acing vs Backend Servers need a lot of
+           clarification 
+   *  On the other hand, they need to reduce their risks, protec
+g a new
+   Hybrid Cryptography, a significant change in the DNS 
+ time it arrives at the browser
+   adds significant security ben
+lications
+
+4.1.  Devices are not trustable
+
+   As [CLESS] showed
+REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "REC
+recent Sunburst attack that targeted the
+   [SOLARWIND] supply c
+hain, the first thing that malware did was
+   disable the anti-m
+ before its work was stopped, is that a strategy
+   pushing secu
+.  Requirements Language
+
+   The key words "MUST", "MUST NOT", "
+
+   The current ECH proposal shows a very complex setup requirin
+efit.  The third problem is that to
+   truly run the full set of
+t their
+      reputation (and all associated aspects), while at 
+. . . . . . . . . . . . . . . . . . . . . .   3
+   3.  Enterpris
+. . . . .   4
+     3.4.  Evolution of defence approaches . . . .
+e host is compromised.  These communications are
+   almost alway
+from analysing the network traffic.
+
+
+
+
+
+
+
+
+
+
+Taddei & Edwards  
+e websites, typically ecommerce related, and add JavaScripts
+   
+king such a radical direction change
+   into the DNS?  Was there
+aft                   ech4ent                       July 2022
+
+
+
+ is definitely moving
+   the DNS as it is today into a 'Director
+rvers meant to be hosted only by CDNs?
+
+
+
+Taddei & Edwards      
+ the
+   cyber criminals and nation states to launch more attacks
+t-Draft                   ech4ent                       July 202
+ data
+   to the hacker.  Other attacks will distribute the malwa
+ . . . . . . . . . . . . . . . . . . . . . . .   4
+     3.1.  Th
+urity . . . . . . . . . . .   5
+     3.6.  Network Security depl
+r opening a malicious file.
+   Hackers create domains that look 
+DNS) will really work
+   in these production environemtns and at
+o a lot of trouble as the spectrum of limits affecting
+   endpoi
+endpoints due to compute and memory required for
+   the full ana
+] [RFC8174] when, and only when, they appear in all
+   capitals,
+ defence in depth analysis on the endpoint
+   will cripple many 
+ as shown here.
+
+2.  Need for clarification on the ECH proposal
+
+ the same time how ECH will
+   affect operational security.
+
+1.1
+rity to only the two endpoints of a communication is
+   doomed t
+like legitimate websites which often
+   are related to delivery 
+ . . . . . . . . .   5
+     3.5.  The need for Network based sec
+es and Organizations need for Operational
+           security  .
+which skim the credit card data used by a customer and send that
+       Expires 12 January 2023                [Page 8]
+
+Interne
+  their digital transformation, it increased the opportunity for
+s.  Some additional questions:
+
+   *  Are these Client Facing se
+ substantial
+   amount of new data.  It seems like this proposal
+ actually block
+   attacks before they reached the targeted endp
+ *  Security cannot rely on just one solution.  Just like in oth
+nother layer can provide
+      coverage
+
+   *  Compartmenting pe
+
+//datatracker.ietf.org/doc/draft-campling-ech-
+              dep
+of as that last line of defence, and not the only line of
+   def
+r malware and DLP etc.
+
+5.  Conclusions
+
+   This document remind
+in-the-
+              browser_attack>.
+
+   [MITB-MITRE]
+        
+uments valid for a maximum of six months
+   and may be updated, 
+ to this document.  Code Components
+   extracted from this docum
+ech4ent-introduction-00
+
+Abstract
+
+   This paper reviews some of
+ can be ignored while traffic destined for an online email
+   sy
+This is where Data Loss Prevention (DLP) controls come in; allow
+ducts, such as sandboxes, to extract the payload
+   and analyse 
+hey have evolved to allow integration with
+   other security pro
+, what about what users are sending out of an organisation ?
+   
+er activity such as connecting to a news site or social
+   media
+ the Enterprises and Organizations
+   requirements and constrain
+y, as they describe your rights
+   and restrictions with respect
+cker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft doc
+otect these devices
+   relies again on network based analysis fo
+.d.,
+              <https://owasp.org/www-community/attacks/Man-
+ Deployment Considerations", 7 March 2022,
+              <https:
+anaged by the organisation; but these should only be
+   thought 
+from home.
+
+   On the endpoint, deploy anti-malware and DLP agen
+ provide defence in
+      depth safety so if one layer fails a a
+ns on any size and any
+   vertical, incrementaly recognized:
+
+  
+oint; IDS became
+   Intrusion Prevention.  At a higher protocol 
+ecurity were developed in the
+   70s and the 80s and ended up in
+se the
+      probability of hiting a unique point of failure.  S
+dge (SASE).
+
+   On the way, the community and the operational se
+4,
+              May 2017, <https://www.rfc-editor.org/info/rfc8
+act-04>.
+
+   [SMART]    McFadden, M., "BCP72 - A Problem Stateme
+
+Internet-Draft                   ech4ent                      
+s on the Enterprises and Organizations
+   environments, constrai
+ence!  It is also worth considering the increase in devices that
+174>.
+
+8.2.  Informative References
+
+   [CAMPLING] Campling, A.,
+ent must include Revised BSD License text as
+   described in Sec
+replaced, or obsoleted by other documents at any
+   time.  It is
+or Enterprises and Organizations
+                  draft-taddei-
+
+ing
+   organisations to look for company confidential data, Pers
+onal
+   Identifiable Information (PII), and financial data (such
+undary controls' have been essential to
+   organisations in tryi
+                           11 July 2022
+
+
+                 ECH f
+ inappropriate to use Internet-Drafts as reference
+   material o
+tion 4.e of the Trust Legal Provisions and are
+   provided witho
+
+   are not managed by the organisation - Bring Your own Device 
+ Vixie, P., and D. Wright, "Encrypted Client
+              Hello
+ July 2022
+
+
+   [MITB]     OWASP, "Man-in-the-browser attack", n
+nts and requirements.  It shows too that the
+   current ECH draf
+nt", 21 January
+              2022, <https://datatracker.ietf.or
+          2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC817
+curity practioners
+   across all the enterprises and organizatio
+everal measures
+      are used in conjunction with each other to
+ X.800 being apparently the last
+   formal, international consen
+ is), like in a submarine, is a good approach to
+      resilienc
+curity from a pure on premise perimeter defence
+   model, to a t
+ent                       July 2022
+
+
+   *  Comply to a growing 
+ protocol based clean solution
+
+   *  If yes, then what could be
+not act properly to protect end users
+
+   *  The client facing s
+              Wikipedia, "Malvertising", 2 June 2022,
+          
+ Roundy, K., and D. Lazanski,
+              "Capabilities and Li
+lways be a need to deploy agents on the endpoint
+   of devices m
+://www.linkedin.com/in/eric-chien-66b4b258/
+
+
+   Eric contribute
+tion of this document.
+   Please review these documents carefull
+  document authors.  All rights reserved.
+
+
+
+
+
+
+
+
+
+
+Taddei & Edw
+st of known good or bad sites and then
+   block or allow.  But t
+int of view due to
+   legislation such as GDPR and PCI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Internet Engineering Task Force                           A.
+ Taddei, Ed.
+Internet-Draft                                     
+n, but they are also
+   essential from a legal and compliance po
+er Name Identification (SNI) and
+   then check that against a li
+opyright (c) 2022 IETF Trust and the persons identified as the
+ 
+stee.ietf.org/
+   license-info) in effect on the date of publica
+en
+   Broadcom
+   Email: Eric.Chien@broadcom.com
+   URI:   https
+loyment-considerations/>.
+
+   [CLESS]    Taddei, A., Wueest, C.,
+ line of defence.  And this really is the
+   point, there will a
+r cannot be judge and jury as if it is compromised, it
+      can
+n.wikipedia.org/wiki/Web_skimming#Magecart>.
+
+   [MALVERTISING]
+
+ the suggestions to include operational
+      security in the EC
+                [Page 4]
+
+Internet-Draft                   ech4
+sus based security architecture.  Then
+   several works moved se
+rimeters (regardless on how big or small their
+      granularity
+rk based attack detection is a long one, dating
+   back to the m
+iered/layered defence, to defence in depth, to Jericho
+   Forum,
+y
+
+   *  Not trusting anyone, anything, neither the device, nor 
+emembering to make sure there
+   are controls in place to stop t
+mitations of Endpoint Security
+              Solutions", 13 July
+    <https://en.wikipedia.org/wiki/Malvertising>.
+
+
+
+
+
+Taddei & 
+ts will implicitly:
+
+   *  Leave the security responsibility to 
+022
+
+
+   Next as the HTTPS connection is made, checking the SNI,
+r to cite them other than as "work in progress."
+
+   This Intern
+ly 2022
+
+
+   This document is subject to BCP 78 and the IETF Tru
+oups may also distribute
+   working documents as Internet-Drafts
+ as credit
+   card data) and stop it egressing the organisation.
+level Proxies have
+   fundamentally not changed much at all, in 
+
+                      Broadcom
+Expires: 12 January 2023         
+affic (such
+   as malware talking to a Command and Control (C&C)
+      S. Edwards, Ed.
+Intended status: Informational            
+essence they look at the
+   HTTP connection and extract the Serv
+  Not only are
+   these controls used to protect the organisatio
+.  The list of current Internet-
+   Drafts is at https://datatra
+st's Legal
+   Provisions Relating to IETF Documents (https://tru
+et-Draft will expire on 12 January 2023.
+
+Copyright Notice
+
+   C
+ decrypting
+   the traffic, and analying its content will ensure
+Edwards         Expires 12 January 2023               [Page 11]
+
+the browser and the client
+      facing server
+
+   *  The browse
+he software from being deactivated!)
+   and this forms the final
+
+the
+      network, nor the service endpoints (servers, clouds, e
+ to Beyond corp, to Zero Trust and to Secure Access Service
+   E
+ch4ent                       July 2022
+
+
+   The history of netwo
